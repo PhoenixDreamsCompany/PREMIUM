@@ -12,10 +12,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 #EXTINF:0 tvg-logo="", MegaTV (PR)
 https://livestream.lamusica.com/megatvlive/ngrp:megatvlive_all/.m3u8
-#EXTINF:0 tvg-logo="", Azteca UNO 
-https://dai.google.com/linear/hls/pa/event/asXufUKSSKisiLSMHR2BXA/stream/3b3095b0-458a-429d-a267-9ac9467e51bc:BRU/master.m3u8
-#EXTINF:0 tvg-logo="", Azteca 7
-https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/2dd7280d-f4dc-4dcf-9e01-9cea2fb3979b:BRU/master.m3u8
+
 #EXTINF:0 tvg-logo="", Vibe TV
 https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8
 #EXTINF:0 tvg-logo="", Canal 6 Monterrey
